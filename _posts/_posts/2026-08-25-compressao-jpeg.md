@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Como o JPEG engana seus olhos: compressão de imagens na prática"
-date: 2026-09-08
+date: 2026-08-25
 ---
 
 Todo mundo já salvou uma foto em JPEG sem pensar muito nisso. Por trás desse formato existe uma ideia simples: em vez de guardar a imagem pixel por pixel, o JPEG explora os limites da percepção visual humana para descartar informação que o olho dificilmente notaria.
