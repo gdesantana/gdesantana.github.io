@@ -24,4 +24,4 @@ Essa lógica é exclusiva de formatos com perda, como o JPEG. O PNG é sem perda
 
 A curiosidade fica por conta do nome: JPEG vem de Joint Photographic Experts Group, o comitê que criou o padrão em 1992. A sigla virou tão comum que hoje a maioria esquece que é o nome de um grupo de pessoas, não de uma tecnologia.
 
-![Fluxo do processo de compressão JPEG](/assets/imagens/jpeg-compressao.png)
+<img width="473" height="325" alt="jpegcompressao" src="https://github.com/user-attachments/assets/258b81f3-8fec-441e-b6e6-23a4c770ea42" />
