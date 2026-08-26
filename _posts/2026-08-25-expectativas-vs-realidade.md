@@ -9,7 +9,7 @@ Fazia sentido na minha cabeça, "visual" remetendo a "ver", e "ver" remetendo a 
 
 
 
-**O QUE EU ENTENDI DEPOIS **
+**O QUE EU ENTENDI DEPOIS**
 
 Visão Computacional é, na verdade, apenas uma das áreas dentro de um campo bem mais amplo, a própria Computação Visual.
 Computação Visual engloba tudo que envolve a representação, geração, processamento e interpretação de informação visual por computador o que inclui coisas como computação gráfica, processamento de imagens, visualização de dados entre outros,ou seja, enquanto eu pensava em uma via de mão única, o campo real trabalha nas duas direções, tanto gerando visual a partir de dados quanto interpretando dados a partir do visual.
