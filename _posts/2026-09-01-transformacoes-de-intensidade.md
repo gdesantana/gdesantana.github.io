@@ -22,4 +22,7 @@ Transformações lineares por partes incluem alargamento de contraste (expande o
 **Curiosidade**
 
 A correção gama existe por causa dos monitores CRT antigos: a relação entre voltagem e brilho do tubo não era linear, seguia uma curva de potência com expoente perto de 2.5. Só que essa mesma curva, por coincidência, também se aproxima de como o olho humano percebe luminância. Os CRTs sumiram, mas a correção gama continua até hoje porque aproveita melhor os bits disponíveis exatamente nas faixas de brilho que o olho consegue distinguir.
+
+
+
 <img width="316" height="231" alt="image" src="https://github.com/user-attachments/assets/84fda189-9bc2-45d8-b41e-4e2b1579dec5" />
