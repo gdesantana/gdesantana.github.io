@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Filtragem espacial: como um computador enxerga uma borda"
-date: 2026-09-15
+date: 2026-09-13
 ---
 
 Diferente das transformações de intensidade, que processam um pixel de cada vez, a filtragem espacial olha para a vizinhança de cada pixel. A operação central é a convolução: uma máscara (kernel), geralmente de 3x3, desliza sobre a imagem, multiplicando seus valores pelos pixels da vizinhança e somando o resultado num novo pixel de saída.
